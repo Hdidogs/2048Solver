@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 
-public class x  Main extends JFrame implements KeyListener {
+public class Main extends JFrame implements KeyListener {
     boolean fin = false;
     static Cube[][] grille = new Cube[4][4];
 
